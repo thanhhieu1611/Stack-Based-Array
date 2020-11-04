@@ -1,0 +1,6 @@
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\bin\Debug\Array_Based_Stack.exe.config
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\bin\Debug\Array_Based_Stack.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\bin\Debug\Array_Based_Stack.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\obj\Debug\Array_Based_Stack.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\obj\Debug\Array_Based_Stack.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CSC210_Data Structure\ass\ArrayBasedStack\Array_Based_Stack\Array_Based_Stack\obj\Debug\Array_Based_Stack.pdb
